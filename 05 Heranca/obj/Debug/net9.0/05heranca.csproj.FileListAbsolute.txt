@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\bin\Debug\net9.0\05heranca.exe
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\bin\Debug\net9.0\05heranca.deps.json
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\bin\Debug\net9.0\05heranca.runtimeconfig.json
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\bin\Debug\net9.0\05heranca.dll
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\bin\Debug\net9.0\05heranca.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.dll
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\refint\05heranca.dll
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\05heranca.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Orientação á objetos\05heranca\obj\Debug\net9.0\ref\05heranca.dll

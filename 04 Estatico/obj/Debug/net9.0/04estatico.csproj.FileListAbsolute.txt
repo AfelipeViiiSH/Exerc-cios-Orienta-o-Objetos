@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\bin\Debug\net9.0\04estatico.exe
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\bin\Debug\net9.0\04estatico.deps.json
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\bin\Debug\net9.0\04estatico.runtimeconfig.json
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\bin\Debug\net9.0\04estatico.dll
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\bin\Debug\net9.0\04estatico.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.dll
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\refint\04estatico.dll
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\04estatico.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Orientação á objetos\04estatico\obj\Debug\net9.0\ref\04estatico.dll

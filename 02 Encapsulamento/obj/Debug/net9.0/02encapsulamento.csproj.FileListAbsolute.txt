@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\bin\Debug\net9.0\02encapsulamento.exe
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\bin\Debug\net9.0\02encapsulamento.deps.json
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\bin\Debug\net9.0\02encapsulamento.runtimeconfig.json
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\bin\Debug\net9.0\02encapsulamento.dll
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\bin\Debug\net9.0\02encapsulamento.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.dll
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\refint\02encapsulamento.dll
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\02encapsulamento.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Orientação á objetos\02encapsulamento\obj\Debug\net9.0\ref\02encapsulamento.dll

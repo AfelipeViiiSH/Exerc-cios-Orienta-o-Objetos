@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\bin\Debug\net9.0\03construtor.exe
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\bin\Debug\net9.0\03construtor.deps.json
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\bin\Debug\net9.0\03construtor.runtimeconfig.json
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\bin\Debug\net9.0\03construtor.dll
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\bin\Debug\net9.0\03construtor.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.dll
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\refint\03construtor.dll
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.pdb
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\03construtor.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Orientação á objetos\03construtor\obj\Debug\net9.0\ref\03construtor.dll
