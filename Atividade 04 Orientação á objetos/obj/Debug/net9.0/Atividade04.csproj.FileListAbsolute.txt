@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\bin\Debug\net9.0\Atividade04.exe
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\bin\Debug\net9.0\Atividade04.deps.json
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\bin\Debug\net9.0\Atividade04.runtimeconfig.json
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\bin\Debug\net9.0\Atividade04.dll
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\bin\Debug\net9.0\Atividade04.pdb
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.dll
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\refint\Atividade04.dll
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.pdb
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\Atividade04.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Exercícios Orientação á Objeto C#\Atividade04\obj\Debug\net9.0\ref\Atividade04.dll
